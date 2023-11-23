@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Kushi
+ *
+ */
+module ATMInterface {
+}
